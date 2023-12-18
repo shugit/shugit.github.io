@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Shuwen Zhou
+SEOTitle: Shuwen Zhou's Blog | Shuwen Zhou's Personal Website
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: jacobc3@gmail.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://shugit.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
